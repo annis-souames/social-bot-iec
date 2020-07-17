@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+linkedin_v2/__init__.py
+linkedin_v2/exceptions.py
+linkedin_v2/linkedin.py
+linkedin_v2/models.py
+linkedin_v2/server.py
+linkedin_v2/utils.py
+python_linkedin_v2.egg-info/PKG-INFO
+python_linkedin_v2.egg-info/SOURCES.txt
+python_linkedin_v2.egg-info/dependency_links.txt
+python_linkedin_v2.egg-info/not-zip-safe
+python_linkedin_v2.egg-info/requires.txt
+python_linkedin_v2.egg-info/top_level.txt
